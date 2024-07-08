@@ -1,1 +1,3 @@
-# Multi-Agent-AI-model-DnD-Character-
+# Multi Agent AI Model (DnD Character) - WIP
+
+This project aims to create a multi-agent compound AI that can take a classic novel/story as an input, separate the story into scenes based on locations, identify any characters within the scene relevant to the plot and use this information to create a character profile and corresponding artwork. The idea is that this tool could be used to create Dungeons & Dragons campaigns based on classic novels. This would be a basic proof of concept effort in this regard.
